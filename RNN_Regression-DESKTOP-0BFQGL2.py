@@ -1,3 +1,6 @@
+'''
+用sin(x)當作Input預測cos(x)的值
+'''
 import torch
 from torch import nn
 from torch.autograd import Variable
